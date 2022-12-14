@@ -10,7 +10,7 @@
 * Clona't en local la teua còpia del repositori del qual has fet el fork
 * Crea't una rama, nomenada amb el teu nom:  "teu_nom"
 * Canvia a la nova rama. 
-* Has de modificar al fitxer .java *modificant*, el mètode que et corresponga. AlumneFilaxxxPCxxx() {}. 
+* Has de editar el fitxer .java *modificant*, el mètode que et corresponga. AlumneFilaxxxPCxxx() {}. 
 El mètode imprimirà el teu nom i una felicitació Nadalenca amb un desig per a l'Any Nou.
 * El main() no l'has de modificar per a res.
 * Comprova que el programa executa bé.
