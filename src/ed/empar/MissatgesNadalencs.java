@@ -91,7 +91,7 @@ public class MissatgesNadalencs {
 		System.out.println(" BON NADAL, Salut i Pau per a tots.");
 		System.out.println(" FELIÇ ANY NOU !!!!!!");
 		System.out.println("====================================");
-		System.out.println();
+		System.out.println(Jose Igual Avila);
 			
 	}
 
